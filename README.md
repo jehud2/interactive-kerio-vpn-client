@@ -1,4 +1,4 @@
-# interative-kerio-vpn-client
+# interactive-kerio-vpn-client
 Script Interativo para o Kerio VPN Client
 
 Esse script utiliza o 'dialog' para deixar o kerio-vpn-client para linux um pouco mais interativo.
